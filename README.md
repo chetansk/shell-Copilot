@@ -9,6 +9,6 @@ A simple contextual help, live on shell. Works on bash shell on Linux/MAC/Window
  
 ## Pre-requisite 
 * Install jq
-   * sudo apt install jq  # Debian/Ubuntu
-   * brew install jq      # macOS (Homebrew)
+   * sudo apt install jq  #Debian/Ubuntu
+   * brew install jq      #macOS (Homebrew)
 * Generate openAI API key 
