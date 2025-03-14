@@ -5,5 +5,5 @@ A simple contextual help, live on shell. Works on bash shell on Linux/MAC/Window
 * Copy the content of the file bashrc into your .bashrc file, maybe at the end
 * logout and login
 * At anypoint type aiHelp, followed by question
-  * for example aiHelp "How do I add user 'chetansk' to sudo group
+  * for example:: aiHelp "How do I add user chetansk to sudo group
  
