@@ -1,4 +1,4 @@
-# shellhelp
+# Shell Co-pilot
 A simple contextual help, live on shell. Works on bash shell on Linux/MAC/Windows
 
 ## How to
